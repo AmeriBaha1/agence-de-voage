@@ -8,6 +8,11 @@ body {
     font-size: 15px;
 }
 
+h1 {
+    font-family: 'Crete Round', serif;
+    font-size: 45px;
+}
+
 ul {
     list-style: none;
 }
@@ -29,7 +34,6 @@ header {
 
 header img {
     float: left;
-    margin-top: 15px;
 }
 
 header nav {
@@ -47,3 +51,13 @@ header nav ul li a {
     font-weight: bold;
     margin-right: 20px;
 }
+.orange {
+    color: #ff7a00;
+}
+
+header h1 {
+    float: left;
+    margin-top: 32px;
+}
+
+
