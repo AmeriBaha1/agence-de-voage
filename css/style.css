@@ -1,0 +1,49 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    font-size: 15px;
+}
+
+ul {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    color: #444;
+}
+
+.navbar {
+    width: 940px;
+    margin: 0 auto;
+    padding: 0 10px;
+}
+
+header {
+    height: 120px;
+}
+
+header img {
+    float: left;
+    margin-top: 15px;
+}
+
+header nav {
+    float: right;
+    margin-top: 50px;
+}
+
+header nav ul li {
+    float: left;
+    display: inline-block;
+}
+
+header nav ul li a {
+    text-transform: uppercase;
+    font-weight: bold;
+    margin-right: 20px;
+}
