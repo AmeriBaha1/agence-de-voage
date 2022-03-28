@@ -7,7 +7,7 @@ body {
     font-family: Arial, sans-serif;
     font-size: 15px;
 }
-
+/*header*/
 h1 {
     font-family: 'Crete Round', serif;
     font-size: 45px;
@@ -59,7 +59,7 @@ header h1 {
     float: left;
     margin-top: 32px;
 }
-
+/*body*/
 h2 {
     font-size: 55px;
     color: #fff;
