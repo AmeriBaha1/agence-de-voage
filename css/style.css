@@ -60,4 +60,32 @@ header h1 {
     margin-top: 32px;
 }
 
+h2 {
+    font-size: 55px;
+    color: #fff;
+}
 
+#main-image {
+    height: 580px;
+    background: url("images/001.png") center;
+}
+
+#main-image h2 {
+    font-weight: normal;
+    text-transform: uppercase;
+    text-align: center;
+    padding: 150px 0 40px 0;
+    margin-bottom: 20px;
+}
+.button-1 {
+    display: block;
+    width: 120px;
+    height: 50px;
+    background: #ff7a00;
+    color: #fff;
+    font-size: 20px;
+    margin: 0 auto;
+    line-height: 50px;
+    text-align: center;
+    border-radius: 3px;
+}
