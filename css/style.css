@@ -2,6 +2,11 @@
     margin: 0;
     padding: 0;
 }
+.logo img {
+    width: 120px;
+    margin-left: 420px;
+    padding-top: 20px;
+}
 
 body {
     font-family: Arial, sans-serif;
