@@ -89,6 +89,10 @@ h2 {
     text-align: center;
     border-radius: 50px;
 }
+.button-1:hover {
+    background: #02b8dd;
+}
+
 h3 {
     font-size: 30px;
 }
