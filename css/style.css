@@ -56,6 +56,24 @@ header nav ul li a {
     font-weight: bold;
     margin-right: 20px;
 }
+
+.navbar-apropos {
+    margin-top: 20px;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.navbar-apropos nav ul li a {
+    text-transform: uppercase;
+    font-weight: bold;
+    margin-right: 20px;
+}
+
+.navbar-apropos nav ul li {
+    float: left;
+    display: inline-block;
+}
+
 .orange {
     color: #ff7a00;
 }
@@ -291,12 +309,15 @@ input[type="email"] {
     border-radius: 3px;
 }
 
-#à-propos {
+.à-propos {
     padding: 60px 0;
     text-align: center;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
 }
 
-#à-propos h3 {
+.à-propos h3 {
     width: 400px;
     text-transform: uppercase;
     margin: 0 auto 20px;
@@ -311,7 +332,7 @@ input[type="email"] {
 .contacts a {
     text-transform: uppercase;
     font-weight: bold;
-    margin-right;: 20px;
+    margin-right: 20px;
 }
 
 .try {
